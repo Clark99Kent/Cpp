@@ -25,6 +25,8 @@ int main() {
 	InsertVector (v, n);
 	SortVector(v, n);
 	ReadVector(v, n);
+	
+	return 0;
 }
 
 void InsertVector ( int v[], int n ) {
